@@ -18,3 +18,7 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+
+# Frontend SPA (Vue/Vite)
+/frontend/node_modules/
+/frontend/dist/
